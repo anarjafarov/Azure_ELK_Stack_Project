@@ -2,11 +2,11 @@
 Installation and configuration ELK Stack on Azure.
 The files in this repository were used to configure the network depicted below.
 
-My_azure_diagram.png
-hese files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
+Images/My_azure_diagram.png - Described with a diagram to explain the project scheme.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
 Alternatively, select portions of the installation file may be used to install only certain pieces of it, such as Filebeat.
 
-  - filebeat_playbook.yml - playbook file for installation of Filebeat to target VM.
+  - YML scripts/filebeat_playbook.yml - playbook file for installation of Filebeat to target VM. Located in YML scripts files.
 
 This document contains the following details:
 - Description of the Topologu
